@@ -1,0 +1,7 @@
+To open the GUI Press F11, type !atags in chat or atags_open in console. This can be changed in the config.
+
+If you want to enable the default scoreboard with tags set 'ATAG.EnableScoreboardOverride' to true in the config.
+
+The config is located at 'addons/atags/lua/atags/sh_config.lua'
+
+If you find any bugs or have a problem please make a ticket on scriptfodder.

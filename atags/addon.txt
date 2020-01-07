@@ -1,0 +1,7 @@
+"AddonInfo"
+{
+	"name"		"aTags - Chat and Scoreboard tags"
+	"version"	"1.60.20"
+	"author_name"	"ikefi"
+	"info"	"Tags for scoreboard and chat! Fully customizable, easy to use, GUI."
+}
